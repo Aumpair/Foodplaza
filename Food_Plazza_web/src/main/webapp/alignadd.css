@@ -1,0 +1,21 @@
+@charset "UTF-8";
+form{
+		padding: 20px;
+		margin-left: 23%;
+	}
+	button{
+		margin-top:20px;
+		margin-left: 120px;
+		color:white;
+		background-color: rgb(84, 124, 21);
+	}
+	table{
+		
+		background-color: rgb(181, 218, 123);
+		border:2px solid black;
+		height: 200px;
+		width: 500px;
+	}
+	td{
+		text-align: center;
+	}
